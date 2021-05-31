@@ -2,6 +2,7 @@ package testrepo;
 
 public class User {
 int id;
+
 String nom,prenom;
 public int getId() {
 	return id;
